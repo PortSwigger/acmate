@@ -6,6 +6,6 @@ SerialVersion: 0
 MinPlatformVersion: 0
 ProOnly: False
 Author: Ha Thanh LE
-ShortDescription: Access control testing tool to implement and support the adoption of ReACP - Framework for Reverse-Engineering of AC Policies
+ShortDescription: Integrates with ReACP for access control testing.
 EntryPoint: acmate-lite.jar
 BuildCommand: rm -f acmate-lite.jar; mkdir -p bin; ant
