@@ -1,6 +1,7 @@
 Uuid: b67d343b06ac40eb8a40a3fd60f58b08
 ExtensionType: 1
 Name: ACMate
+RepoName: acmate
 ScreenVersion: 1.0
 SerialVersion: 1
 MinPlatformVersion: 0
